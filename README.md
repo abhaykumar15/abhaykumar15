@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhaykumar15
-- 👀 I’m interested in web developement and data engineering
+- 👀 I’m interested in Java Developement nd Machine Learninig
 - 🌱 I’m currently learning automation and data sciece
 - 📫 my linkedin https://www.linkedin.com/in/abhay-kumar-ba555521a
 
